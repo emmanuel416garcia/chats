@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "firstName": "Spongebob",
+      "lastName": "Squarepants",
+      "username": "Spongebob",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "firstName": "Patrick",
+      "lastName": "Star",
+      "username": "patrick.star",
+      "password": "password",
+      "id": 2
+    }
+  ],
+  "chats": []
+}
